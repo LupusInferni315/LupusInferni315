@@ -1,16 +1,22 @@
-## Hi there 👋
+# Raistlin Wolfe - Lupus Inferni
 
-<!--
-**LupusInferni315/LupusInferni315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mildly feral game developer**
 
-Here are some ideas to get you started:
+Forged in flame, and fueled by caffeine, I build worlds, break them and on the weird days summon untold horrors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Game dev at and owner of **Stellar Wolf Entertainment**
+- I code, design and conjure cursed code
+
+## What I work on
+
+- Aurora Game Engine
+- Simulation and Strategy games
+- Utility libraries
+- Random code projects
+
+## Contact
+
+- Email: `mr.wolfe69@outlook.com`
+- Streaming: [Twitch](https://www.twitch.tv/lupusinferni)
