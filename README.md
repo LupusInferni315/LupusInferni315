@@ -23,6 +23,6 @@ Everything here evolves as I do, so the contents change depending on what I’m 
 
 ## Contact
 
-- Email: `mr.wolfe69@outlook.com`
-- Streaming: [Lupus Inferni](https://www.twitch.tv/lupusinferni)
-- Business: [Stellar Wolf](https://github.com/StellarWolfEnt)
+- [Email](mailto:mr.wolfe69@outlook.com)
+- [Professional Repos](https://github.com/StellarWolfEnt)
+- [Streaming](https://www.twitch.tv/lupusinferni)
